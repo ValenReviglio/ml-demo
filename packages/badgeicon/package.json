@@ -1,5 +1,5 @@
 {
-  "name": "@ml-demo/badgeicon",
+  "name": "@valentinreviglio/badgeicon",
   "version": "0.0.10",
   "description": "BadgeIcon",
   "main": "./build/index.js",
@@ -10,8 +10,7 @@
     "react": "16.8.6"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.com/",
     "access": "public"
   },
-  "gitHead": "cc30ce26975070583ccc91180bdcc946fe8d48e9"
+  "gitHead": "e979d25462af42cc35f712cf78a12c84f7b06fc9"
 }
