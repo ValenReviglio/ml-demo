@@ -1,6 +1,6 @@
 {
-  "name": "@valentinreviglio/badgeicon",
-  "version": "0.0.11",
+  "name": "@ml-demo/badgeicon",
+  "version": "0.0.1",
   "description": "BadgeIcon",
   "main": "./build/index.js",
   "private": false,
