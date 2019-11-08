@@ -7,5 +7,6 @@
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10",
     "react": "16.8.6"
-  }
+  },
+  "gitHead": "2e5f68e5ef098225583c717563b05b89f9f1f803"
 }
