@@ -1,0 +1,11 @@
+{
+  "name": "@ml-demo-library/badgeicon",
+  "version": "0.0.3",
+  "description": "BadgeIcon",
+  "main": "./build/index.js",
+  "peerDependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.5.10",
+    "react": "16.8.6"
+  }
+}
