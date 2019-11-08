@@ -1,5 +1,5 @@
 {
-  "name": "@ml-demo-library/badgeicon",
+  "name": "@ml-demo/badgeicon",
   "version": "0.0.1",
   "description": "BadgeIcon",
   "main": "./build/index.js",

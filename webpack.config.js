@@ -15,7 +15,7 @@ module.exports = {
   entry: entries,
   resolve: {
     alias: {
-      '@my-ui': '../../',
+      '@ml-demo': '../../',
     },
   },
   output: {

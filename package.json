@@ -1,5 +1,5 @@
 {
-  "name": "ml-test-library",
+  "name": "ml-demo",
   "description": "My First NPM Component's library",
   "scripts": {
     "lint": "eslint ./packages/**/*.js ./packages/**/**/*.js --ignore-path .gitignore --quiet",
