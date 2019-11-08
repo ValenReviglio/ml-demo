@@ -8,5 +8,9 @@
     "prop-types": "^15.5.10",
     "react": "16.8.6"
   },
-  "gitHead": "82bafb060734a51fa4f02318ea4df8fce57fa6ad"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/",
+    "access": "public"
+  },
+  "gitHead": "5c8fb594e4a2cde1a4d8f5a80624df37e6112099"
 }
