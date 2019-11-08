@@ -3,10 +3,10 @@ const { readdirSync, existsSync } = require('fs');
 
 const entries = {};
 
-readdirSync('./modules').forEach((packageName) => {
-  const index = `./modules/${packageName}/index.js`;
+readdirSync('./packages').forEach((packageName) => {
+  const index = `./packages/${packageName}/index.js`;
   if (existsSync(index) && packageName !== 'all') {
-    entries[`../modules/${packageName}/build/index`] = index;
+    entries[`../packages/${packageName}/build/index`] = index;
   }
 });
 

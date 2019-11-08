@@ -2,7 +2,7 @@
   "name": "ml-test-library",
   "description": "My First NPM Component's library",
   "scripts": {
-    "lint": "eslint ./modules/**/*.js ./modules/**/**/*.js --ignore-path .gitignore --quiet",
+    "lint": "eslint ./packages/**/*.js ./packages/**/**/*.js --ignore-path .gitignore --quiet",
     "sass-lint": "sass-lint -c '.sass-lint.yml' -v -q",
     "clean": "lerna run clean",
     "init": "npm i && lerna bootstrap",
