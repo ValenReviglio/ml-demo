@@ -7,7 +7,7 @@
     "clean": "lerna run clean",
     "init": "npm i && lerna bootstrap",
     "build": "webpack --config webpack.config.js",
-    "publish": "npm run build && lerna publish --no-verify-registry --no-git-tag-version --exact",
+    "publish": "npm run build && lerna publish -- --access public",
     "publish:release": "npm run build && lerna publish --no-verify-registry --no-verify-access --no-git-tag-version --exact",
     "storybook": "start-storybook -p 6006",
     "storybook-dev": "npm run build && start-storybook -p 6006",
