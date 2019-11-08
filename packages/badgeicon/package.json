@@ -1,6 +1,6 @@
 {
   "name": "@ml-demo/badgeicon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "BadgeIcon",
   "main": "./build/index.js",
   "peerDependencies": {
@@ -8,5 +8,5 @@
     "prop-types": "^15.5.10",
     "react": "16.8.6"
   },
-  "gitHead": "8452b5ae70925c0beb963434aecebe5f0269fbef"
+  "gitHead": "09c1ed48bb6dba82e6cfb662f10dd65ce31bd8f1"
 }
