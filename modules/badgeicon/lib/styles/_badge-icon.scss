@@ -1,0 +1,90 @@
+@import '../../../common/variables';
+
+.badge-icon {
+  @include square(30px);
+  display: inline-block;
+  position: relative;
+
+  .badge-icon__status {
+    @include square(33%);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+
+  svg {
+    @include square(100%);
+  }
+
+  .badge-icon__caret {
+    border: solid #3483fa;
+    border-width: 0 1.5px 1.5px 0;
+    display: inline-block;
+
+    @include square(100%);
+
+    &.badge-icon__caret--right {
+      transform: rotate( -45deg );
+    }
+    &.badge-icon__caret--left {
+      transform: rotate( 135deg );
+    }
+  }
+
+  .badge-icon__back {
+    padding: 0;
+    position: relative;
+    cursor: pointer;
+    border: 0;
+    background: none;
+
+    @include square(100%);
+
+    .badge-icon__back-arrow {
+      border: solid #333;
+      border-width: 1.2px 0 0 1.2px;
+      transform: rotate( -45deg );
+      display: inline-block;
+      padding: 0;
+
+      @include square(100%);
+    }
+
+    .badge-icon__back-line {
+      display: block;
+      position: absolute;
+      background-color: #333;
+      height: 1px;
+      width: 140%;
+      top: 50%;
+      margin-top: -1px;
+      left: -1px;
+    }
+  }
+
+  .badge-icon__plus {
+    background-color: $andes-blue-400;
+    border-radius: 50%;
+    position: relative;
+    border: 0;
+
+    @include square(100%);
+
+    .badge-icon__plus-horizontal-bar,
+    .badge-icon__plus-vertical-bar {
+      width: 2px;
+      height: 8px;
+      background-color: #fff;
+      position: absolute;
+      margin: auto;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+    }
+
+    .badge-icon__plus-vertical-bar {
+      transform: rotate( -90deg );
+    }
+  }
+}
