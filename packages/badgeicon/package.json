@@ -3,10 +3,11 @@
   "version": "0.0.7",
   "description": "BadgeIcon",
   "main": "./build/index.js",
+  "private": false,
   "peerDependencies": {
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10",
     "react": "16.8.6"
   },
-  "gitHead": "82bafb060734a51fa4f02318ea4df8fce57fa6ad"
+  "gitHead": "fd6de3e03674a65aa027467c82eea97ec63999ff"
 }
