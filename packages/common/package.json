@@ -13,7 +13,8 @@
     "react": "15.5.x - 16.2.x",
     "react-dom": "15.5.x - 16.2.x"
   },
-  "author": "TMS Core",
-  "license": "ISC",
-  "gitHead": "d01e7ddde9287c690ee2e353960aad1db8d84052"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "416de98527e670e112776f0c840dfaa8d7382c1d"
 }
