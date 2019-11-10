@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g fill="none" fill-rule="nonzero">
+    <path stroke="#EFCC12" stroke-linecap="square" stroke-width="2.5" d="M21.5 119.5H129"/>
+    <path fill="#695C00" fill-opacity=".11"
+          d="M100.89 55.456l14.503 2.29a2.5 2.5 0 0 1 2.026 1.826l2.743 10.284A2.5 2.5 0 0 1 117.746 73H100.5a2.5 2.5 0 0 1-2.5-2.5V57.926a2.5 2.5 0 0 1 2.89-2.47z"/>
+    <path stroke="#333" stroke-width="2.5" d="M123.297 105.75l6.182-16.127V101.5a4.25 4.25 0 0 1-4.25 4.25h-1.932z"/>
+    <path stroke="#333" stroke-linecap="round" stroke-width="2.5"
+          d="M73 97h24M85 41.167h-8M85 46.167h-5M68.5 97H68M58 105.25h47M91 48c10.667 1.667 19.667 3.333 27 5 3 1 3 1 5 9 1.333 5.333 3 11 5 17l1.48 2v16"/>
+    <path stroke="#333" stroke-linecap="round" stroke-width="2.5"
+          d="M121.69 72.184H99.804c-1.169 0-2.116-.91-2.116-2.032v-9.07V55M21 82v-.071M21 77.327V36.066c0-1.141.895-2.066 2-2.066h66c1.105 0 2 .925 2 2.066V97M32.102 106H23a2 2 0 0 1-2-2V93.65"/>
+    <path fill="#FFDB15" d="M121 85h4v7h-4z"/>
+    <circle cx="41" cy="106" r="9" fill="#FFDB15" stroke="#333" stroke-linecap="round" stroke-width="2.5"/>
+    <path stroke="#695C00" stroke-linecap="round" stroke-opacity=".11" stroke-width="2.5" d="M41 101a5 5 0 0 0-5 5"/>
+    <circle cx="114" cy="106" r="9" fill="#FFDB15" stroke="#333" stroke-linecap="round" stroke-width="2.5"/>
+    <path stroke="#695C00" stroke-linecap="round" stroke-opacity=".11" stroke-width="2.5" d="M114 101a5 5 0 0 0-5 5"/>
+    <rect width="47.5" height="34" x="14" y="40" fill="#EFCC12" rx="2"/>
+    <g fill="#333">
+      <path d="M31 69h11.667V57.333H31V69zm2.333-9.333h7v6.982h-7v-6.982z"/>
+      <path d="M35.667 62H38v2.333h-2.333zM49.667 66.667H52V69h-2.333z"/>
+      <path
+        d="M54.333 59.667H52v-2.334h-7V69h2.334v-7h2.332v2.334h7v-7h-2.333zM54.333 66.667h2.333V69h-2.333zM31 56.167h11.667V44.5H31v11.667zm2.333-9.334h7v7h-7v-7z"/>
+      <path d="M35.667 49.167H38V51.5h-2.333zM45 44.5v11.667h11.667V44.5H45zm9.333 9.333h-7v-7h7v7z"/>
+      <path d="M49.667 49.167H52V51.5h-2.333z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="64px" height="60px" viewBox="0 0 64 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Iconos-menu" transform="translate(-1830.000000, -917.000000)">
+      <g id="armado-copy" transform="translate(1818.000000, 903.000000)">
+        <g id="Group-5" transform="translate(11.000000, 14.000000)">
+          <g id="Group-2" transform="translate(0.902913, 0.155340)">
+            <g id="Group-8" transform="translate(2.252427, 0.000000)">
+              <g id="Group-7" transform="translate(0.921447, 0.000000)">
+                <g id="Group-3" transform="translate(0.319835, 0.000000)" fill-rule="nonzero">
+                  <rect id="Rectangle-14-Copy-3" stroke="#333333" stroke-width="1.5" x="18.7694175" y="1.36429832" width="26.1434245" height="17.6033756" rx="2"></rect>
+                  <path d="M23.6504854,9.82877317 L28.7696381,9.82877317" id="Line-4" stroke="#333333" stroke-width="1.5" stroke-linecap="round"></path>
+                  <path d="M23.6504854,6.50132392 L26.2100618,6.50132392" id="Line-4-Copy" stroke="#333333" stroke-width="1.5" stroke-linecap="round"></path>
+                  <path d="M1.49189358,13.4121801 L30.15255,13.4121801 C30.7048347,13.4121801 31.15255,13.8598953 31.15255,14.4121801 L31.15255,44.9059893 C31.15255,45.458274 30.7048347,45.9059893 30.15255,45.9059893 L1.49189358,45.9059893 C0.939608833,45.9059893 0.491893583,45.458274 0.491893583,44.9059893 L0.491893583,14.4121801 C0.491893583,13.8598953 0.939608833,13.4121801 1.49189358,13.4121801 Z" id="Rectangle-14-Copy-3" stroke="#333333" stroke-width="1.5" fill="#F5D328" stroke-linecap="round" stroke-dasharray="5,5,50"></path>
+                  <rect id="Rectangle-14-Copy-4" stroke="#333333" stroke-width="1.5" x="31.0553839" y="18.7694175" width="25.5291262" height="27.1983749" rx="3"></rect>
+                  <path d="M39.4887889,21.7480338 L49.7656589,21.7480338 L49.7656589,28.9148476 L39.4887824,28.9147989 C38.9364976,28.9147963 38.4887845,28.4670789 38.4887871,27.9147942 C38.4887876,27.823246 38.5013593,27.7321315 38.5261501,27.6440039 L39.1766943,25.3314132 L38.5261518,23.0188288 C38.3765959,22.487179 38.6863441,21.9349527 39.2179939,21.7853968 C39.3061231,21.7606056 39.3972392,21.7480338 39.4887889,21.7480338 Z" id="Rectangle-16-Copy-5" fill="#F5D328" transform="translate(44.127096, 25.331441) rotate(-90.000000) translate(-44.127096, -25.331441) "></path>
+                </g>
+                <g id="Group-6-Copy-2" transform="translate(22.012357, 5.221536)"></g>
+              </g>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 45.048544)" fill-rule="nonzero" stroke="#333333" stroke-width="1.5">
+              <g id="Group" transform="translate(6.194175, 6.757282)">
+                <rect id="Rectangle-19" x="0.75" y="1.32462052" width="13.1407767" height="5.25728155" rx="2"></rect>
+                <rect id="Rectangle-19-Copy" x="37.9150485" y="1.32462052" width="13.1407767" height="5.25728155" rx="2"></rect>
+              </g>
+              <rect id="Rectangle-19-Copy-2" x="1.3131068" y="0.75" width="61.5679612" height="7.50970874" rx="2"></rect>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

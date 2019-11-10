@@ -1,4 +1,12 @@
-@import '../../../common/variables';
+// Sizing mixins
+@mixin size($width, $height) {
+  width: $width;
+  height: $height;
+}
+
+@mixin square($size) {
+  @include size($size, $size);
+}
 
 .badge-icon {
   @include square(30px);
@@ -24,10 +32,11 @@
     @include square(100%);
 
     &.badge-icon__caret--right {
-      transform: rotate( -45deg );
+      transform: rotate(-45deg);
     }
+
     &.badge-icon__caret--left {
-      transform: rotate( 135deg );
+      transform: rotate(135deg);
     }
   }
 
@@ -43,7 +52,7 @@
     .badge-icon__back-arrow {
       border: solid #333;
       border-width: 1.2px 0 0 1.2px;
-      transform: rotate( -45deg );
+      transform: rotate(-45deg);
       display: inline-block;
       padding: 0;
 
@@ -63,7 +72,7 @@
   }
 
   .badge-icon__plus {
-    background-color: $andes-blue-400;
+    background-color: blue;
     border-radius: 50%;
     position: relative;
     border: 0;
@@ -84,7 +93,7 @@
     }
 
     .badge-icon__plus-vertical-bar {
-      transform: rotate( -90deg );
+      transform: rotate(-90deg);
     }
   }
 }

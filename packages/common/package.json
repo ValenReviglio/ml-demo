@@ -1,0 +1,19 @@
+{
+  "name": "@tms-ui/common",
+  "version": "0.0.1",
+  "description": "Common Sass variables, mixins and functions to use all across TMS UI.",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "node ../../scripts/sass-lint.js",
+    "clean": "node ../../scripts/clean.js"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "15.5.x - 16.2.x",
+    "react-dom": "15.5.x - 16.2.x"
+  },
+  "author": "TMS Core",
+  "license": "ISC",
+  "gitHead": "4201a043668409e25c50fca03775c173d1587e53"
+}

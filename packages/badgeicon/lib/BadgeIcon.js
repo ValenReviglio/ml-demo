@@ -11,7 +11,12 @@ const BadgeIcon = ({ icon: Icon, statusIcon: StatusIcon, className, styleIcon, s
 
   return (
     <div className={classNames('badge-icon', className)} style={iconStyles}>
-      <h1>Hola mundo</h1>
+      <Icon />
+      {StatusIcon &&
+        <div className="badge-icon__status" style={styleStatusIcon}>
+          <StatusIcon />
+        </div>
+      }
     </div>
   );
 };

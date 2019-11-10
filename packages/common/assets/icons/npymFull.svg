@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="85" viewBox="0 0 110 85">
+  <defs>
+    <path id="b" d="M0 4.558A4 4 0 0 1 4.004.555h211.868a4.005 4.005 0 0 1 4.004 4.003v140.217a4 4 0 0 1-4.004 4.003H4.004A4.005 4.005 0 0 1 0 144.775V4.558z" />
+    <filter id="a" width="103.2%" height="104.7%" x="-1.6%" y="-1.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1" />
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0" />
+    </filter>
+    <rect id="c" width="540" height="486" rx="4" />
+    <filter id="d" width="118%" x="-9%" y="-5.9%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1" />
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1" />
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5" />
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0" />
+      <feOffset dy="20" in="SourceAlpha" result="shadowOffsetOuter2" />
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="12.5" />
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" />
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1" />
+        <feMergeNode in="shadowMatrixOuter2" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#EDEDED" d="M-627-286H737v972H-627z" />
+    <g transform="translate(-23.811 -120.573)">
+      <use fill="#000" filter="url(#a)" xlink:href="#b" />
+      <use fill="#FFF" xlink:href="#b" />
+    </g>
+    <path fill="#D8D8D8" fill-rule="nonzero" d="M-23.811 24.165v-65.738h220.245v65.738a4 4 0 0 1-4 4H-19.81a4 4 0 0 1-4-4z" opacity=".25" />
+    <text fill="#000" fill-opacity=".6" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" transform="translate(-24.408 -121.024)">
+      <tspan x="17" y="128.675">634 PeM</tspan>
+    </text>
+    <text fill="#000" fill-opacity=".6" font-family="ProximaNova-Regular, Proxima Nova" font-size="12" transform="translate(-24.408 -121.024)">
+      <tspan x="17" y="107.21">500 NPeM</tspan>
+    </text>
+    <text fill="#000" fill-opacity=".8" font-family="ProximaNova-Semibold, Proxima Nova" font-size="28" font-weight="500" transform="translate(-24.408 -121.024)">
+      <tspan x="17" y="61.574">1.505</tspan>
+    </text>
+    <text fill="#000" fill-opacity=".8" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" transform="translate(-24.408 -121.024)">
+      <tspan x="17" y="30.574">Etiquetas impressas</tspan>
+    </text>
+    <g fill="#000" fill-opacity=".6">
+      <path d="M-627-286H737v972H-627z" />
+    </g>
+    <g>
+      <g transform="translate(-215 -43)">
+        <mask id="e" fill="#fff">
+          <use xlink:href="#c" />
+        </mask>
+        <use fill="#000" filter="url(#d)" xlink:href="#c" />
+        <use fill="#FFF" xlink:href="#c" />
+      </g>
+      <g fill-rule="nonzero" transform="translate(15 5)">
+        <path fill="#FFF" stroke="#333" stroke-dasharray="2,4" stroke-linecap="round" stroke-width="2"
+          d="M55 66H5V23a4 4 0 0 1 4-4h42a4 4 0 0 1 4 4v34.084" />
+        <path fill="#FFDB15" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M22 16.587h16a2 2 0 0 1 2 2v16.421a1 1 0 0 1-1.398.918L30 32.192l-8.602 3.734A1 1 0 0 1 20 35.008v-16.42a2 2 0 0 1 2-2z" />
+        <rect width="17" height="10" x="11" y="51" fill="#E9E9E9" rx="2" />
+        <path stroke="#333" stroke-linejoin="round" stroke-width="2" d="M0 66h78v5a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4v-5z" />
+        <g stroke="#333" stroke-linecap="round" stroke-width="2">
+          <path stroke-dasharray="2,4" d="M55 44.5h32" />
+          <path stroke-linejoin="round" d="M85 53.385l8.692-8.693L85 36" />
+        </g>
+        <g stroke="#333" stroke-width="2" transform="translate(58)">
+          <path fill="#FFF" d="M6 14h8v52H6z" />
+          <circle cx="10" cy="10" r="10" fill="#FFF" />
+          <path stroke-linecap="round" d="M10 10l4 4" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

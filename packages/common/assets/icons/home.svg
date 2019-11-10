@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Width-320" stroke="#333" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g class="badge-icon__home" transform="translate(-18.000000, -38.000000)">
+      <g transform="translate(18.472908, 39.404762)">
+        <polyline id="Path" points="7.80057902 9.67120486 7.80057902 15.8256079 2.97726522 15.8256079 2.97726522 6.15440309 2.97726522 6.15440309" />
+        <polyline id="Path" points="7.80057902 15.8256079 7.80057902 10.0103496 7.80057902 10.0103496 11.5787691 10.0103496 11.5787691 15.8256079" />
+        <polyline id="Shape" points="16.4020828 6.15440309 16.4020828 15.8256079 11.5787691 15.8256079 11.5787691 9.67120486" />
+        <polyline id="Path-2" points="3.90798505e-14 8.79200441 9.70774016 -2.7533531e-14 19.378945 8.79200441" />
+      </g>
+    </g>
+  </g>
+</svg>

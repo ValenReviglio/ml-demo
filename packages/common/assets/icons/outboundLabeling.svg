@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g fill="none" fill-rule="nonzero">
+    <path fill="#FFDB15" d="M25.5 58.228h45a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-45a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1z"/>
+    <path stroke="#333" stroke-dasharray="150,15" stroke-linecap="round" stroke-width="1.5" d="M77.182 21.258v53.57a2.33 2.33 0 0 1-2.329 2.329h-53.57a2.33 2.33 0 0 1-2.328-2.33V21.259a2.33 2.33 0 0 1 2.329-2.329h53.57a2.33 2.33 0 0 1 2.328 2.33z"/>
+    <path fill="#333" d="M25 40.348h1.327v12H25v-12zm3.538 0h.885v12h-.885v-12zm2.654 0h.885v12h-.885v-12zm1.77 0h1.326v12h-1.326v-12zm3.538 0h1.327v12H36.5v-12zm2.654 0h.884v12h-.884v-12zm2.654 0h1.327v12h-1.327v-12zm2.654 0h.884v12h-.884v-12zm2.653 0H48v12h-.885v-12zm1.77 0h.884v12h-.884v-12zm2.653 0h1.327v12h-1.327v-12zm2.654 0h1.327v12h-1.327v-12zm3.539 0h.884v12h-.884v-12zm1.769 0h.885v12H59.5v-12zm2.654 0h1.327v12h-1.327v-12zm3.538 0h.885v12h-.885v-12zm1.77 0h.884v12h-.884v-12zm2.211 0H71v12h-1.327v-12z"/>
+    <path stroke="#333" stroke-linecap="round" stroke-width="1.5" d="M27.494 29.359h17.277M27.734 34.012h9.599"/>
+  </g>
+</svg>
