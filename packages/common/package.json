@@ -1,5 +1,5 @@
 {
-  "name": "@tms-ui/common",
+  "name": "@ml-demo/common",
   "version": "0.0.1",
   "description": "Common Sass variables, mixins and functions to use all across TMS UI.",
   "main": "./build/index.js",
