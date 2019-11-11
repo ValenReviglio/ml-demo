@@ -1,6 +1,6 @@
 {
   "name": "@ml-demo/badgeicon",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "BadgeIcon",
   "main": "./build/index.js",
   "private": false,
