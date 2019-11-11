@@ -1,6 +1,6 @@
 {
   "name": "@ml-demo/badgeicon",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "BadgeIcon",
   "main": "./build/index.js",
   "private": false,
@@ -12,5 +12,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "416de98527e670e112776f0c840dfaa8d7382c1d"
+  "gitHead": "f09a3d950ce26ec9b839a57dec2e1cc3b7f8ffb3"
 }
