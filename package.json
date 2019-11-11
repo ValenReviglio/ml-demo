@@ -70,9 +70,5 @@
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "replace-in-file": "4.1.1"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.com/",
-    "access": "public"
   }
 }

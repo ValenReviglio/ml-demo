@@ -3,6 +3,7 @@ const PropTypes = require('prop-types');
 const classNames = require('classnames');
 
 const BadgeIcon = ({ icon: Icon, statusIcon: StatusIcon, className, styleIcon, styleStatusIcon, square, unit }) => {
+  console.log('Hola mundo');
   let iconStyles;
   if (unit || square) {
     const size = (unit) ? `calc( var(--unit) * ${unit} )` : square;
