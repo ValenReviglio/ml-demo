@@ -19,8 +19,6 @@ module.exports = {
     },
   },
   output: {
-    libraryTarget: 'commonjs2',
-    library: '[name]',
     path: path.join(path.resolve('.'), './build'),
     filename: '[name].js',
   },
