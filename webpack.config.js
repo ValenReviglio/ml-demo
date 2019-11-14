@@ -11,13 +11,7 @@ readdirSync('./packages').forEach((packageName) => {
 });
 
 module.exports = {
-  mode: 'production',
   entry: entries,
-  resolve: {
-    alias: {
-      '@ml-demo': '../../',
-    },
-  },
   output: {
     libraryTarget: 'commonjs2',
     library: '[name]',
