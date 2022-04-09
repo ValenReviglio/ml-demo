@@ -65,7 +65,7 @@
     "lodash.isfunction": "3.0.9",
     "lodash.mapkeys": "4.6.0",
     "lodash.snakecase": "4.1.1",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "query-string": "6.8.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
